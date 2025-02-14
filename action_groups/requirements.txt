@@ -1,0 +1,7 @@
+## FOR getschema.py file 
+pyathena
+sqlalchemy 
+
+## For execute_Athena_query.py
+boto3
+pandas
